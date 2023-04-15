@@ -1,0 +1,61 @@
+/* font-family "Roboto",sans-serif */
+@import url('https://fonts.google.com/specimen/Roboto&display=swap.preview.text=MedLab&preview.text_type=custom');
+
+
+.isoTipo {
+  font-family: "Roboto", sans-serif;
+}
+
+.carousel-caption {
+  background-color: rgba(0, 0, 0, 0.504);
+  border-radius: 10px;
+}
+
+.container-fluid {
+  height: 100%;
+  width: 100%;
+}
+
+.carousel-inner img {
+  height: 500px;
+}
+
+.hero {
+  margin-top: 30px;
+}
+
+.subTtl {
+  color: rgb(18, 81, 176)
+}
+
+.main-article {
+  margin-top: 4rem;
+  margin-bottom: 4rem;
+  padding-bottom: 2rem;
+  border-top: 1px solid rgb(71, 81, 91);
+  border-bottom: 1px solid rgb(71, 81, 91);
+}
+
+#multistep {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 600px;
+  background-image: url('/assets/cultivo-bacterias-1024x684.webp');
+  background-size: cover;
+}
+
+#multistep form {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background: linear-gradient(130deg, rgb(91, 237, 78) 10%, rgb(175, 230, 196) 45%, rgb(212, 252, 235) 100%);
+  border-radius: 3%;
+  padding: 2rem;
+  box-shadow: 4px 4px 8px;
+  height: 550px;
+}
+
+
+
+
